@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f3ed3b7-2cd3-42bd-8983-7492a004a153" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Http.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nom.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nom.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/DbConn.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/DbInterface.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/db-engines/Postgres.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serial/results.cs" afterDir="false" />
-    </list>
+    <list default="true" id="5f3ed3b7-2cd3-42bd-8983-7492a004a153" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +83,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/database/db-engines/Postgres.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2">
+                <state relative-caret-position="88">
                   <caret line="103" column="49" lean-forward="true" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
                   <folding>
                     <marker date="1558146792895" expanded="true" signature="6:61" ph="..." />
@@ -278,12 +268,12 @@
       <updated>1558062827954</updated>
       <workItem from="1558062834314" duration="857000" />
       <workItem from="1558070157245" duration="266000" />
-      <workItem from="1558092547706" duration="12852000" />
+      <workItem from="1558092547706" duration="13413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13975000" />
+    <option name="totallyTimeSpent" value="14536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,12 +287,12 @@
   <component name="ToolWindowManager">
     <frame x="-2" y="24" width="1924" height="1031" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.09211928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09211928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,7 +304,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.11868132" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="16" weight="0.15384616" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -440,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/db-engines/Postgres.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
+        <state relative-caret-position="88">
           <caret line="103" column="49" lean-forward="true" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
           <folding>
             <marker date="1558146792895" expanded="true" signature="6:61" ph="..." />
