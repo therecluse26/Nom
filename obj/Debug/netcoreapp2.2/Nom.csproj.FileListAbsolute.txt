@@ -1,0 +1,11 @@
+/shared/Code/CS/Nom/bin/Debug/netcoreapp2.2/Nom.dll
+/shared/Code/CS/Nom/bin/Debug/netcoreapp2.2/Nom.pdb
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.csprojAssemblyReference.cache
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.csproj.CoreCompileInputs.cache
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.AssemblyInfoInputs.cache
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.AssemblyInfo.cs
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.dll
+/shared/Code/CS/Nom/obj/Debug/netcoreapp2.2/Nom.pdb
+/shared/Code/CS/Nom/bin/Debug/netcoreapp2.2/Nom.deps.json
+/shared/Code/CS/Nom/bin/Debug/netcoreapp2.2/Nom.runtimeconfig.json
+/shared/Code/CS/Nom/bin/Debug/netcoreapp2.2/Nom.runtimeconfig.dev.json
